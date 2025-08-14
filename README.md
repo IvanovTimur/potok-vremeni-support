@@ -25,7 +25,7 @@
 # 📬 Контакты службы поддержки
 
 📧 Email: potokVremeni@outlook.com
-🐞 Сообщить об ошибке: https://github.com/IvanovTimur/flow-time-support/issues/new
+🐞 Сообщить об ошибке: https://github.com/IvanovTimur/potok-vremeni-support/issues/new
 
 # 🔐 Политика конфиденциальности
 
